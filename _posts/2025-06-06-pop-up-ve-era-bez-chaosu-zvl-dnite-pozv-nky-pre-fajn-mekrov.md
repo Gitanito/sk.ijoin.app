@@ -4,6 +4,7 @@ title: Pop-up večera bez chaosu - Zvládnite pozvánky pre fajnšmekrov
 subtitle: Ako zabezpečiť bezproblémovú RSVP pre vaše exkluzívne akcie
 tags: [organizácia udalostí, RSVP nástroj]
 author: ijoin.app
+language: sk
 ---
 
 # Pop-up večera bez chaosu - Zvládnite pozvánky pre fajnšmekrov

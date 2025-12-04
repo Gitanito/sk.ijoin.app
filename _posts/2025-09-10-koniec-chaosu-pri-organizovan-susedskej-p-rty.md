@@ -4,6 +4,7 @@ title: Koniec chaosu pri organizovaní susedskej párty
 subtitle: Ako zabezpečiť účasť a koordináciu úloh bez registrácie - Susedská párty 2.0
 tags: [organizácia podujatí, susedská párty]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte bezstarostnú susedskú párty – Zvýšte účasť a delegujte úlohy jednoducho

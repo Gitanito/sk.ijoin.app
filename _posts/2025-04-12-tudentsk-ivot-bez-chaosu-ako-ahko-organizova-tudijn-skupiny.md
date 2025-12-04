@@ -4,6 +4,7 @@ title: Študentský život bez chaosu - Ako ľahko organizovať študijné skupi
 subtitle: Získajte maximum účastníkov pre vašu prípravu na skúšky bez zdĺhavých registrácií
 tags: [organizovanie podujatí, študijné skupiny]
 author: ijoin.app
+language: sk
 ---
 
 # Premeňte prípravu na skúšky z chaosu na koncentrované učenie

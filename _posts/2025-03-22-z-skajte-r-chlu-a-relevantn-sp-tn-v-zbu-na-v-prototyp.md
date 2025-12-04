@@ -4,6 +4,7 @@ title: Získajte Rýchlu a Relevantnú Spätnú Väzbu na Váš Prototyp
 subtitle: Ako maximalizovať účasť na vašej UX/UI feedback session bez zbytočnej registrácie
 tags: [organizácia eventov, UX/UI feedback]
 author: ijoin.app
+language: sk
 ---
 
 # Premeňte Nápad na Hotový Produkt- Vďaka Efektívnej Feedback Session

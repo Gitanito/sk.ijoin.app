@@ -4,6 +4,7 @@ title: STOP- chaos pri prihlasovaní na kurzy
 subtitle: Ako keramická dielňa zvýšila účasť na kurzoch bez nutnosti registrácie
 tags: [organizácia kurzov, jednoduchá registrácia]
 author: ijoin.app
+language: sk
 ---
 # STOP- chaos pri prihlasovaní na kurzy- Získajte viac účastníkov na váš Töpferkurs
 

@@ -4,6 +4,7 @@ title: Zorganizujte Turistiku-Bicyklovú Akciu Bez Chaosu
 subtitle: Ako zabezpečiť účasť na vašom klube či výlete - Jednoducho a Bez Registrácie
 tags: [organizácia podujatí, turistika]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Turistiku a Cyklistiku s Maximálnou Účasťou – Bez Problémov

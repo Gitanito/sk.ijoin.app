@@ -4,6 +4,7 @@ title: Koniec chaosu s pozvánkami na knižný klub
 subtitle: Zjednodušte si účasť na stretnutiach a maximalizujte dochádzku
 tags: [organizácia-udalostí, knižný-klub]
 author: ijoin.app
+language: sk
 ---
 # Už žiadne komplikácie s RSVP pre váš Knižný klub
 

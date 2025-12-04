@@ -4,6 +4,7 @@ title: Zorganizujte Školský Výlet Bez Chaosu - Jednoduché Zdieľanie Jazdy
 subtitle: Ako zabezpečiť efektívne zdieľanie áut pre školské akcie a výlety
 tags: [školský výlet, zdieľanie jázd]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Školský Výlet Bez Chaosu - Jednoduché Zdieľanie Jazdy

@@ -4,6 +4,7 @@ title: Stop chaotickým organizáciám spolujázd pre váš tím
 subtitle: Ako zabezpečiť, aby sa každý dostal na tréning vďaka jednoduchému odkazu
 tags: [spolujazda, organizácia-udalostí]
 author: ijoin.app
+language: sk
 ---
 
 # Stop chaotickým organizáciám spolujázd pre váš tím

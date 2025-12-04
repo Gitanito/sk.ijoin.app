@@ -4,6 +4,7 @@ title: Koniec chaosu s organizovaním nečakaných stretnutí
 subtitle: Ako zabezpečiť, aby sa váš spontánny event stal realitou bez zdĺhavého plánovania
 tags: [organizovanie podujatí, pozvánky online]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte spontánny gril – Bez registrácie a zdĺhavých reťazcov správ!

@@ -4,6 +4,7 @@ title: Koniec Chaosu s Účasťou Tímu - Jednoduché Riešenie pre Trénerov
 subtitle: Ako Získať Okamžité Potvrdenie Účasti na Tréningoch a Zápasoch
 tags: [organizácia športu, potvrdenie účasti]
 author: ijoin.app
+language: sk
 ---
 
 # Zjednodušte Zber Účasti pre Váš Športový Tím – Bez Registrácie a E-mailov

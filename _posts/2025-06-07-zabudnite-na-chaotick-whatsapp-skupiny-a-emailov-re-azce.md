@@ -4,6 +4,7 @@ title: Zabudnite na chaotické WhatsApp skupiny a emailové reťazce
 subtitle: Ako zorganizovať spontánnu akciu s maximálnou účasťou za 30 sekúnd
 tags: [organizácia podujatí, RSVP]
 author: ijoin.app
+language: sk
 ---
 # Spontánny Parkový Piknik Flashmob – Zorganizujte to ľahko a bez registrácie
 

@@ -4,6 +4,7 @@ title: Už Žiadne Nekonečné Skupinové Chaty - Ako Organizovať Spontánne Co
 subtitle: Zvýšte účasť na vašich neformálnych stretnutiach bez registrácie a zdĺhavého plánovania
 tags: [organizácia eventov, co-working stretnutia]
 author: ijoin.app
+language: sk
 ---
 
 # Premeňte Chaos Plánovania na Spoľahlivé Co-Working Stretnutia

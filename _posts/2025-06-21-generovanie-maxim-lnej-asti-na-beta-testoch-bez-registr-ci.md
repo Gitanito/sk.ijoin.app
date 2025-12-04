@@ -4,6 +4,7 @@ title: Generovanie Maximálnej Účasti na Beta Testoch Bez Registrácií
 subtitle: Ako startupy získavajú rýchle odpovede a spätnú väzbu od testerov
 tags: [beta testovanie, organizácia eventov]
 author: ijoin.app
+language: sk
 ---
 # Už žiadne komplikované registrácie- Rýchle pozvánky na Beta Testy pre Startup
 

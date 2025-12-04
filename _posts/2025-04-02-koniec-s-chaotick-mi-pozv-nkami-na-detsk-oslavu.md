@@ -4,6 +4,7 @@ title: Koniec s chaotickými pozvánkami na detskú oslavu
 subtitle: Ako zabezpečiť, aby RSVP na párty fungovalo bez hádania a registrácií
 tags: [organizácia osláv, RSVP bez registrácie]
 author: ijoin.app
+language: sk
 ---
 # Už žiadne Excel tabuľky- Zistite, kto naozaj príde na oslavu vášho dieťaťa
 

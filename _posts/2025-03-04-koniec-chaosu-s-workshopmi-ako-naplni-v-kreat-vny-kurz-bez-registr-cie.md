@@ -4,6 +4,7 @@ title: Koniec chaosu s workshopmi - Ako naplniť váš kreatívny kurz bez regis
 subtitle: Zjednodušte prihlasovanie na workshopy a získajte maximálnu účasť bez zbytočného stresu
 tags: [organizácia workshopov, riadenie udalostí]
 author: ijoin.app
+language: sk
 ---
 
 # Koniec chaosu s workshopmi - Ako naplniť váš kreatívny kurz bez registrácie

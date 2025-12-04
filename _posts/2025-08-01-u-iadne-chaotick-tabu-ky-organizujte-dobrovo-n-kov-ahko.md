@@ -4,6 +4,7 @@ title: Už žiadne chaotické tabuľky - Organizujte dobrovoľníkov ľahko
 subtitle: Ako ijoin.app zdvojnásobí účasť na vašom školskom podujatí
 tags: [organizácia podujatí, dobrovoľníci]
 author: ijoin.app
+language: sk
 ---
 
 # Už žiadne chaotické tabuľky – Získajte dobrovoľníkov pre školský blšák bez námahy

@@ -4,6 +4,7 @@ title: Koniec s chaotickým potvrdzovaním účasti - Alumni stretnutia bez nám
 subtitle: Ako zabezpečiť maximálnu účasť na vašich klubových a alumni podujatiach
 tags: [organizácia podujatí, alumni stretnutia]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Alumni Stretnutie alebo Klubovú Akciu s Rekordnou Účasťou

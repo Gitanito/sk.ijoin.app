@@ -4,6 +4,7 @@ title: Zorganizujte Hry a Stretnutia Bez Chaosu s Jediným Linkom
 subtitle: Stop neustálemu overovaniu účasti- Zvýšte účasť na vašich eventoch
 tags: [organizácia eventov, board games]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Hry a Stretnutia Bez Chaosu s Jediným Linkom

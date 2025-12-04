@@ -4,6 +4,7 @@ title: Zorganizujte Branchen-Meetup za 5 Minút - Bez Chaosu a Registrácií
 subtitle: Prestaňte strácať čas s emailami a tabuľkami – získajte maximálnu účasť na vašom profesionálnom stretnutí
 tags: [organizácia eventov, profesionálne stretnutia]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Branchen-Meetup za 5 Minút - Zvýšte Účasť Bez Námahy

@@ -4,6 +4,7 @@ title: Organizácia Public Viewingu Bez Chaosu
 subtitle: Potvrďte účasť na športovom sviatku jednoducho a rýchlo
 tags: [organizácia udalostí, public viewing]
 author: ijoin.app
+language: sk
 ---
 
 # Organizácia Public Viewingu Bez Chaosu - Zistite, Kto Príde na Športový Zápas

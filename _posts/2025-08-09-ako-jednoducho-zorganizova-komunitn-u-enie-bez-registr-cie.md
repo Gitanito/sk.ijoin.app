@@ -4,6 +4,7 @@ title: Ako Jednoducho Zorganizovať Komunitné Učenie - Bez Registrácie
 subtitle: Zvýšte účasť na vašich Skill-Share stretnutiach a workshopoch
 tags: [organizácia udalostí, skill-share]
 author: ijoin.app
+language: sk
 ---
 # Ako Získať Viac Účastníkov na Vaše Skill-Share Stretnutia a Workshopy
 

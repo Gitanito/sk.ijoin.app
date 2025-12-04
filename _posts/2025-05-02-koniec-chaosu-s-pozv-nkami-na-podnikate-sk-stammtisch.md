@@ -4,6 +4,7 @@ title: Koniec chaosu s pozvánkami na podnikateľský Stammtisch
 subtitle: Organizujte stretnutia lokálnych podnikateľov bez registrácií a zbytočných e-mailov
 tags: [organizácia podujatí, podnikateľské stretnutia]
 author: ijoin.app
+language: sk
 ---
 # Ako Premeniť Mesačný Stammtisch na Efektívnu Sieťovú Akciu
 

@@ -4,6 +4,7 @@ title: Získajte Maximálnu Účasť na Vašej Komunitnej Akcii – Bez Registr�
 subtitle: Premeňte pozvánky na záväzky – jednoduchá organizácia podujatí pre knižnice a komunitné centrá
 tags: [organizácia podujatí, komunitné akcie]
 author: ijoin.app
+language: sk
 ---
 # Prestaňte Naháňať Odpovede – Získajte Istotu Účasti na Vašom Tematickom Večere
 

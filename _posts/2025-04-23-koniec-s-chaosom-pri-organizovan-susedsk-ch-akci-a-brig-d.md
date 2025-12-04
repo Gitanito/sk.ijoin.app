@@ -4,6 +4,7 @@ title: Koniec s chaosom pri organizovaní susedských akcií a brigád
 subtitle: Ako získať maximum účastníkov na vašu komunitnú udalosť bez registrácie
 tags: [organizovanie podujatí, susedská brigáda]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Susedskú Brigádu Bez Námahy – Rýchlo a Efektívne

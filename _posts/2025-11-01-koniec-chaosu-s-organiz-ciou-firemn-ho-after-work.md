@@ -4,6 +4,7 @@ title: Koniec chaosu s organizáciou firemného after-work
 subtitle: Ako zabezpečiť účasť kolegov na akcii bez nekonečných emailov a skupinových chatov
 tags: [organizácia udalostí, firemné akcie]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte After-Work a Zistite Počet Účastníkov za 90 Sekúnd

@@ -4,6 +4,7 @@ title: Koniec s chaotickým dohadovaním - Rodičovská hra na ihrisku bez stres
 subtitle: Ako zorganizovať spontánne stretnutia pre deti jedným klikom
 tags: [organizácia stretnutí, rodičovské skupiny]
 author: ijoin.app
+language: sk
 ---
 # Koniec s chaotickým dohadovaním - Rodičovská hra na ihrisku bez stresu
 

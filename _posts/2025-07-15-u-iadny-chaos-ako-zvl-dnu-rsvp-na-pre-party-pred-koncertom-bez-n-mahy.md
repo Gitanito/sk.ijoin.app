@@ -4,6 +4,7 @@ title: Už žiadny chaos- Ako zvládnuť RSVP na Pre-Party pred koncertom bez n�
 subtitle: Zorganizujte dokonalú predkoncertovú akciu- Rýchle potvrdenia, žiadne registrácie
 tags: [organizácia eventov, RSVP bez registrácie]
 author: ijoin.app
+language: sk
 ---
 
 # Zorganizujte Pre-Party pred Koncertom, Ktorá Beží Sama- Maximálne Potvrdenia Účasti s [ijoin.app](https://ijoin.app/index-sk.html)

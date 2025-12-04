@@ -4,6 +4,7 @@ title: Už žiadne hádanie- Kto príde na pivo a kedy
 subtitle: Rýchla organizácia spontánnych stretnutí bez registrácií a chaosu
 tags: [organizácia udalostí, spontánne stretnutia]
 author: ijoin.app
+language: sk
 ---
 
 # Už žiadne hádanie- Kto príde na pivo a kedy

@@ -4,6 +4,7 @@ title: Koniec Chaosu s Rodičovskými Združeniami - Jednoduchá Online Registr�
 subtitle: Ako Zefektívniť Prihlasovanie Rodičov na Koncultačné Hodiny
 tags: [školstvo, online registrácia]
 author: ijoin.app
+language: sk
 ---
 
 # Zefektívnite Prihlasovanie Rodičov na Konzultácie s [ijoin.app](https://ijoin.app/index-sk.html)

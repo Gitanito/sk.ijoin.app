@@ -4,6 +4,7 @@ title: Stop chaotickým pozvánkam - jednoduchá registrácia na akcie
 subtitle: Ako zvýšiť účasť na letnej slávnosti bez otravných e-mailov
 tags: [organizácia podujatí, rodičovské združenie]
 author: ijoin.app
+language: sk
 ---
 # Stop chaotickým pozvánkam - Zvýšte účasť na triednej slávnosti
 
